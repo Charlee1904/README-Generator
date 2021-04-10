@@ -1,0 +1,26 @@
+{
+  "name": "readmeapp",
+  "version": "1.0.0",
+  "description": "An app that helps the user create a high-quality README",
+  "main": "index.js",
+  "scripts": {
+    "start":"index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charlee1904/README-Generator.git"
+  },
+  "keywords": [
+    "README"
+  ],
+  "author": "Charles Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charlee1904/README-Generator/issues"
+  },
+  "homepage": "https://github.com/Charlee1904/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
