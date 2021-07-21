@@ -1,7 +1,8 @@
 
  #Readme Gen
   https://github.com/Charlee1904Readme Gen
-  
+  ![image](https://user-images.githubusercontent.com/30184051/126537346-058cd0fd-e823-44f6-b8c8-ba72a0a81dd6.png)
+
 ##Description
   creates a readme file
 
